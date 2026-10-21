@@ -1,2 +1,2 @@
-# geetanjali-respository
+# geetanjali-repository
 My First GitHub repository
